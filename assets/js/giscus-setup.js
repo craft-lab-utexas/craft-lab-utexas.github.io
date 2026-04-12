@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "craft-lab-utexas/craft-lab-utexas",
+    "data-repo": "craft-lab-utexas/craft-lab-utexas.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
