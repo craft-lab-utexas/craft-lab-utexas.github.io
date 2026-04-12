@@ -15,7 +15,7 @@ To receive announcements, join our mailing list:
 <!-- Mailchimp signup embed goes here once configured -->
 <div style="margin: 1.5rem 0; padding: 1rem; 
             background: #f8f9fa; border-radius: 8px;">
-  <strong>Stay updated:</strong> Mailing list signup coming soon. 
+  <strong>Get Email Reminders:</strong> Mailing list signup coming soon. 
   In the meantime, contact 
   <a href="mailto:jstubbs@tacc.utexas.edu">jstubbs@tacc.utexas.edu</a> 
   to be added to the seminar announcements list.
