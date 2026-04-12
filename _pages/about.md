@@ -28,7 +28,7 @@ latest_posts:
 
 ## Welcome to CRaFT Lab
 
-Computational Reasoning and Formalized Theory (CRaFT) Lab is a research 
+The Computational Reasoning and Formalized Theory (CRaFT) Lab is a research 
 lab at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu) at the 
 [University of Texas at Austin](https://utexas.edu). We advance rigorous formal reasoning 
 and make its most powerful tools accessible at scale.
