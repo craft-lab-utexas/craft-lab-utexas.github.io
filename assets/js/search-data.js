@@ -448,11 +448,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "seminars-autoformalization-of-graduate-level-mathematics-using-large-language-models",
-          title: 'Autoformalization of Graduate-Level Mathematics Using Large Language Models',
-          description: "",
-          section: "Seminars",handler: () => {
-              window.location.href = "/seminars/2025-09-05-example-speaker/";
             },},{id: "seminars-sequencelib-a-platform-for-formalizing-the-oeis",
           title: 'Sequencelib: A Platform for Formalizing the OEIS',
           description: "",
