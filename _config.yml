@@ -144,8 +144,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
+  seminars:
+    output: false  # we don't need individual pages per seminar
   news:
     defaults:
       layout: post
