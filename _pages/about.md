@@ -7,7 +7,7 @@ nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: joe-stubbs.jpg
   image_circular: false
   more_info: >
     <p>Research Scientist</p>
