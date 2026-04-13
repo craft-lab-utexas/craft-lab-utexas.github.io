@@ -30,11 +30,11 @@ latest_posts:
 
 The Computational Reasoning and Formalized Theory (CRaFT) Lab is a research 
 lab at the [Texas Advanced Computing Center (TACC)](https://tacc.utexas.edu) at the 
-[University of Texas at Austin](https://utexas.edu). We advance rigorous formal reasoning 
-and make its most powerful tools accessible at scale.
+[University of Texas at Austin](https://utexas.edu). We work on computational reasoning systems
+that scale.
 
-The lab operates at the intersection of production-grade software infrastructure in direct service 
-of theoretical research in mathematics, computer science, and software verification. Our work 
+The lab develops and deploys production-grade software infrastructure for use  
+in theoretical research in mathematics, computer science, and software verification. Our work 
 spans Interactive Theorem Provers (ITPs) such as [Lean](https://leanprover.github.io/), 
 SAT/SMT solvers, and the integration of Formal Methods with modern AI including 
 autoformalization and AI-assisted proof search.
