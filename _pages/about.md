@@ -14,7 +14,7 @@ profile:
     <p>Texas Advanced Computing Center</p>
     <p>University of Texas at Austin</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
