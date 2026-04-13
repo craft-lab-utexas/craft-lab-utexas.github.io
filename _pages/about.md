@@ -46,7 +46,7 @@ autoformalization and AI-assisted proof search.
 Joe Stubbs is a Research Scientist at TACC, where he leads the Cloud and Interactive 
 Computing group and holds a faculty appointment in the 
 [Computational Engineering program](https://cockrell.utexas.edu) within the Cockrell School 
-of Engineering. His work focuses on cloud and distributed systems, formal methods, AI, and 
+of Engineering. His work focuses on cloud computing and distributed systems, formal methods, AI, and 
 scalable research computing infrastructure.
 
 ---
