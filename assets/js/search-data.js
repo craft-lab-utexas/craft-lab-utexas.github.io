@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-seminar",
           title: "seminar",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/seminar/";
-          },
-        },{id: "nav-research",
-          title: "research",
-          description: "CRaFT research projects",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
           },
         },{id: "nav-tools",
           title: "tools",
