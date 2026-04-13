@@ -1,6 +1,6 @@
 ---
 layout: page
-title: seminar
+title: Seminar
 permalink: /seminar/
 nav: true
 nav_order: 3
