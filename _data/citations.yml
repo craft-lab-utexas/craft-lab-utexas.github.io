@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -54,7 +54,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 483
+    citations: 484
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -198,7 +198,7 @@ papers:
     title: Virtualizing the stampede2 supercomputer with applications to hpc in the cloud
     year: '2018'
   ICZdhGsAAAAJ:d1gkVwhDpl0C:
-    citations: 16
+    citations: 17
     title: 'Integrating jupyter into research computing ecosystems: Challenges and successes in architecting jupyterhub for collaborative research computing ecosystems'
     year: '2020'
   ICZdhGsAAAAJ:dhFuZR0502QC:
