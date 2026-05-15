@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-15'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 1
     title: Diagnostic endoscopy in the patient with chest pain
     year: '1981'
+  ICZdhGsAAAAJ:3s1wT3WcHBgC:
+    citations: 0
+    title: 'Preface: Proceedings of the 11th International Workshop on Science Gateways: IWSG 2019'
+    year: '2021'
   ICZdhGsAAAAJ:4DMP91E08xMC:
     citations: 14
     title: 'Round trip: an automated pipeline for experimental design, execution, and analysis'
@@ -54,7 +58,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 484
+    citations: 487
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -70,7 +74,7 @@ papers:
     title: 'Endofday: A Container Workflow Engine for Scalable, Reproducible Computation.'
     year: '2016'
   ICZdhGsAAAAJ:LkGwnXOMwfcC:
-    citations: 10
+    citations: 11
     title: Operational lessons from chameleon
     year: '2019'
   ICZdhGsAAAAJ:M05iB0D1s5AC:
@@ -261,6 +265,10 @@ papers:
     citations: 15
     title: Real-world, self-hosted kubernetes experience
     year: '2021'
+  ICZdhGsAAAAJ:rO6llkc54NcC:
+    citations: 0
+    title: Lessons Learned from the Chameleon Testbed
+    year: Unknown Year
   ICZdhGsAAAAJ:roLk4NBRz8UC:
     citations: 5
     title: Potent elements and tight closure in artinian modules
