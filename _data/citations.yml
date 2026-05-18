@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-18'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 487
+    citations: 490
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -265,10 +265,6 @@ papers:
     citations: 15
     title: Real-world, self-hosted kubernetes experience
     year: '2021'
-  ICZdhGsAAAAJ:rO6llkc54NcC:
-    citations: 0
-    title: Lessons Learned from the Chameleon Testbed
-    year: Unknown Year
   ICZdhGsAAAAJ:roLk4NBRz8UC:
     citations: 5
     title: Potent elements and tight closure in artinian modules
