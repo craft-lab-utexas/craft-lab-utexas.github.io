@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-27'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 490
+    citations: 494
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -74,7 +74,7 @@ papers:
     title: 'Endofday: A Container Workflow Engine for Scalable, Reproducible Computation.'
     year: '2016'
   ICZdhGsAAAAJ:LkGwnXOMwfcC:
-    citations: 11
+    citations: 10
     title: Operational lessons from chameleon
     year: '2019'
   ICZdhGsAAAAJ:M05iB0D1s5AC:
@@ -222,7 +222,7 @@ papers:
     title: Detailed Functional Overview of an API and Workflow Engine for Scientific Research Computing
     year: '2023'
   ICZdhGsAAAAJ:hqOjcs7Dif8C:
-    citations: 79
+    citations: 80
     title: 'Tapis: An API platform for reproducible, distributed computational research'
     year: '2021'
   ICZdhGsAAAAJ:isC4tDSrTZIC:
