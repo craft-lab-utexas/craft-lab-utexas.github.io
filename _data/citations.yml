@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-15'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 494
+    citations: 505
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -74,7 +74,7 @@ papers:
     title: 'Endofday: A Container Workflow Engine for Scalable, Reproducible Computation.'
     year: '2016'
   ICZdhGsAAAAJ:LkGwnXOMwfcC:
-    citations: 10
+    citations: 11
     title: Operational lessons from chameleon
     year: '2019'
   ICZdhGsAAAAJ:M05iB0D1s5AC:
@@ -86,7 +86,7 @@ papers:
     title: 'CloudSec: An Extensible Automated Reasoning Framework for Cloud Security Policies'
     year: '2024'
   ICZdhGsAAAAJ:M3ejUd6NZC8C:
-    citations: 36
+    citations: 37
     title: 'Tapis api development with python: best practices in scientific rest api implementation: experience implementing a distributed stream api'
     year: '2020'
   ICZdhGsAAAAJ:MXK_kJrjxJIC:
@@ -110,7 +110,7 @@ papers:
     title: A Design Pattern for Recoverable Job Management
     year: '2022'
   ICZdhGsAAAAJ:RGFaLdJalmkC:
-    citations: 2
+    citations: 3
     title: Facilitating collaborative science through portals connected to high-performance computing
     year: '2023'
   ICZdhGsAAAAJ:RYcK_YlVTxYC:
@@ -158,7 +158,7 @@ papers:
     title: "Abaco\u2013a modern platform for highthroughput parallel scientific computations"
     year: '2020'
   ICZdhGsAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 12
     title: 'Building science gateway infrastructure in the middle of the pacific and beyond: experiences using the agave deployer and agave platform to build science gateways'
     year: '2018'
   ICZdhGsAAAAJ:YFjsv_pBGBYC:
@@ -202,7 +202,7 @@ papers:
     title: Virtualizing the stampede2 supercomputer with applications to hpc in the cloud
     year: '2018'
   ICZdhGsAAAAJ:d1gkVwhDpl0C:
-    citations: 17
+    citations: 18
     title: 'Integrating jupyter into research computing ecosystems: Challenges and successes in architecting jupyterhub for collaborative research computing ecosystems'
     year: '2020'
   ICZdhGsAAAAJ:dhFuZR0502QC:
@@ -222,7 +222,7 @@ papers:
     title: Detailed Functional Overview of an API and Workflow Engine for Scientific Research Computing
     year: '2023'
   ICZdhGsAAAAJ:hqOjcs7Dif8C:
-    citations: 80
+    citations: 82
     title: 'Tapis: An API platform for reproducible, distributed computational research'
     year: '2021'
   ICZdhGsAAAAJ:isC4tDSrTZIC:
@@ -278,13 +278,17 @@ papers:
     title: Design and Implementation of SGCI Resource Inventory
     year: Unknown Year
   ICZdhGsAAAAJ:ufrVoPGSRksC:
-    citations: 181
+    citations: 182
     title: Distributed systems of microservices using docker and serfnode
     year: '2015'
   ICZdhGsAAAAJ:vV6vV6tmYwMC:
     citations: 0
     title: Development of Authenticated Clients and Applications for ICICLE CI Services-Final Report for the REHS Program
     year: '2023'
+  ICZdhGsAAAAJ:zA6iFVUQeVQC:
+    citations: 0
+    title: A High-Performance Computing Portal Applied to 3D Electron Microscopy
+    year: '2026'
   ICZdhGsAAAAJ:zYLM7Y9cAGgC:
     citations: 10
     title: Containers-as-a-service via the actor model
