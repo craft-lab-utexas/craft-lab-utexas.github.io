@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 513
+    citations: 519
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -66,7 +66,7 @@ papers:
     title: Portable Seismic Data Processing across Scales with MsPASS
     year: '2023'
   ICZdhGsAAAAJ:J_g5lzvAfSwC:
-    citations: 0
+    citations: 1
     title: A Comprehensive Cloud Architecture for Machine Learning-enabled Research
     year: '2024'
   ICZdhGsAAAAJ:KlAtU1dfN6UC:
@@ -178,7 +178,7 @@ papers:
     title: 'Sequencelib: A Computational Platform for Formalizing the OEIS in Lean'
     year: '2026'
   ICZdhGsAAAAJ:Zph67rFs4hoC:
-    citations: 60
+    citations: 61
     title: 'Firefly: Untethered multi-user {VR} for commodity mobile devices'
     year: '2020'
   ICZdhGsAAAAJ:_FxGoFyzp5QC:
