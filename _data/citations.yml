@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-10'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -74,7 +74,7 @@ papers:
     title: 'Endofday: A Container Workflow Engine for Scalable, Reproducible Computation.'
     year: '2016'
   ICZdhGsAAAAJ:LkGwnXOMwfcC:
-    citations: 11
+    citations: 10
     title: Operational lessons from chameleon
     year: '2019'
   ICZdhGsAAAAJ:M05iB0D1s5AC:
@@ -158,7 +158,7 @@ papers:
     title: "Abaco\u2013a modern platform for highthroughput parallel scientific computations"
     year: '2020'
   ICZdhGsAAAAJ:Y0pCki6q_DkC:
-    citations: 12
+    citations: 11
     title: 'Building science gateway infrastructure in the middle of the pacific and beyond: experiences using the agave deployer and agave platform to build science gateways'
     year: '2018'
   ICZdhGsAAAAJ:YFjsv_pBGBYC:
