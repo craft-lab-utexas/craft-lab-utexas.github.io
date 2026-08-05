@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-05'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -25,6 +25,10 @@ papers:
     citations: 14
     title: 'Round trip: an automated pipeline for experimental design, execution, and analysis'
     year: '2022'
+  ICZdhGsAAAAJ:4OULZ7Gr8RgC:
+    citations: 0
+    title: 'The Virtual Biospecimen Repository: A Scalable Informatics Framework for End-to-End Biospecimen and Data Tracking Across Consortium Sites'
+    year: '2026'
   ICZdhGsAAAAJ:4TOpqqG69KYC:
     citations: 3
     title: 'The arabidopsis information portal: an application platform for data discovery'
@@ -38,7 +42,7 @@ papers:
     title: 'Introduction to the Minitrack on Software Sustainability: Research on Usability, Maintainability, and Reproducibility'
     year: '2025'
   ICZdhGsAAAAJ:7PzlFSSx8tAC:
-    citations: 3
+    citations: 4
     title: 'Workflow management for scientific research computing with tapis workflows: Architecture and design decisions behind software for research computing pipelines'
     year: '2022'
   ICZdhGsAAAAJ:8k81kl-MbHgC:
@@ -46,7 +50,7 @@ papers:
     title: Streamed data via cloud-hosted real-time data services for the geosciences as an ingestion interface into the Planet Texas science gateway and integrated modeling platform
     year: '2019'
   ICZdhGsAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: Building tapis v3 streams api support for real-time streaming data event-driven workflows
     year: '2021'
   ICZdhGsAAAAJ:GnPB-g6toBAC:
@@ -58,7 +62,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 519
+    citations: 538
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -67,7 +71,7 @@ papers:
     year: '2023'
   ICZdhGsAAAAJ:J_g5lzvAfSwC:
     citations: 1
-    title: A Comprehensive Cloud Architecture for Machine Learning-enabled Research
+    title: A comprehensive cloud architecture for machine learning-enabled research
     year: '2024'
   ICZdhGsAAAAJ:KlAtU1dfN6UC:
     citations: 4
@@ -83,10 +87,10 @@ papers:
     year: '2024'
   ICZdhGsAAAAJ:M3NEmzRMIkIC:
     citations: 1
-    title: 'CloudSec: An Extensible Automated Reasoning Framework for Cloud Security Policies'
+    title: 'CloudSec: An extensible automated reasoning framework for cloud security policies'
     year: '2024'
   ICZdhGsAAAAJ:M3ejUd6NZC8C:
-    citations: 37
+    citations: 36
     title: 'Tapis api development with python: best practices in scientific rest api implementation: experience implementing a distributed stream api'
     year: '2020'
   ICZdhGsAAAAJ:MXK_kJrjxJIC:
@@ -98,8 +102,8 @@ papers:
     title: https://doi. org/10.5281/zenodo. 7201342
     year: '2022'
   ICZdhGsAAAAJ:NaGl4SEjCO4C:
-    citations: 1
-    title: 'AI and Science Gateways: A Promising Combination for Accelerating Science and Research Computing'
+    citations: 2
+    title: 'AI and science gateways: a promising combination for accelerating science and research computing'
     year: '2024'
   ICZdhGsAAAAJ:O3NaXMp0MMsC:
     citations: 0
@@ -110,12 +114,12 @@ papers:
     title: A Design Pattern for Recoverable Job Management
     year: '2022'
   ICZdhGsAAAAJ:RGFaLdJalmkC:
-    citations: 3
+    citations: 4
     title: Facilitating collaborative science through portals connected to high-performance computing
     year: '2023'
   ICZdhGsAAAAJ:RYcK_YlVTxYC:
     citations: 1
-    title: Toward smart scheduling in tapis
+    title: Toward Smart Scheduling in Tapis
     year: '2024'
   ICZdhGsAAAAJ:Se3iqnhoufwC:
     citations: 1
@@ -127,7 +131,7 @@ papers:
     year: '2026'
   ICZdhGsAAAAJ:TFP_iSt0sucC:
     citations: 3
-    title: A decentralized authorization and security framework for distributed research workflows
+    title: A Decentralized Authorization and Security Framework for Distributed Research Workflows
     year: '2023'
   ICZdhGsAAAAJ:Tyk-4Ss8FVUC:
     citations: 5
@@ -154,11 +158,11 @@ papers:
     title: 'Introduction to the Minitrack on Software Sustainability: Strategies for Long-Lasting and Usable Research Software'
     year: '2022'
   ICZdhGsAAAAJ:Wp0gIr-vW9MC:
-    citations: 3
+    citations: 2
     title: "Abaco\u2013a modern platform for highthroughput parallel scientific computations"
     year: '2020'
   ICZdhGsAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 12
     title: 'Building science gateway infrastructure in the middle of the pacific and beyond: experiences using the agave deployer and agave platform to build science gateways'
     year: '2018'
   ICZdhGsAAAAJ:YFjsv_pBGBYC:
@@ -178,7 +182,7 @@ papers:
     title: 'Sequencelib: A Computational Platform for Formalizing the OEIS in Lean'
     year: '2026'
   ICZdhGsAAAAJ:Zph67rFs4hoC:
-    citations: 61
+    citations: 62
     title: 'Firefly: Untethered multi-user {VR} for commodity mobile devices'
     year: '2020'
   ICZdhGsAAAAJ:_FxGoFyzp5QC:
@@ -190,7 +194,7 @@ papers:
     title: Tapis early adopter workshop
     year: '2020'
   ICZdhGsAAAAJ:aqlVkmm33-oC:
-    citations: 20
+    citations: 22
     title: Prediction of whole-cell transcriptional response with machine learning
     year: '2022'
   ICZdhGsAAAAJ:bEWYMUwI8FkC:
@@ -205,6 +209,10 @@ papers:
     citations: 18
     title: 'Integrating jupyter into research computing ecosystems: Challenges and successes in architecting jupyterhub for collaborative research computing ecosystems'
     year: '2020'
+  ICZdhGsAAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: Considering Workforce Development for AI in Scientific Research
+    year: '2026'
   ICZdhGsAAAAJ:dhFuZR0502QC:
     citations: 1
     title: Extending Tapis Workflow Management Framework with Elastic Google Cloud Distributed System using CloudyCluster by Omnibond
@@ -213,6 +221,10 @@ papers:
     citations: 0
     title: 'Tutorial: Agave ToGo Micro Sites: Phenomenal Gateway Power, Itty Bitty Hosting Space'
     year: Unknown Year
+  ICZdhGsAAAAJ:fPk4N6BV_jEC:
+    citations: 0
+    title: 'From HPC to Edge: A Web-Based Workflow for AI Model Testing and Deployment'
+    year: '2026'
   ICZdhGsAAAAJ:g5m5HwL7SMYC:
     citations: 2
     title: A Model for Teaching Machine Learning, Deep Learning, and Research Computing to Domain Scientists on HPC Resources
@@ -222,7 +234,7 @@ papers:
     title: Detailed Functional Overview of an API and Workflow Engine for Scientific Research Computing
     year: '2023'
   ICZdhGsAAAAJ:hqOjcs7Dif8C:
-    citations: 83
+    citations: 88
     title: 'Tapis: An API platform for reproducible, distributed computational research'
     year: '2021'
   ICZdhGsAAAAJ:isC4tDSrTZIC:
@@ -242,11 +254,11 @@ papers:
     title: 'Introduction to the Minitrack Software Sustainability: Strategies for Long-Lasting and Usable Software'
     year: '2024'
   ICZdhGsAAAAJ:ldfaerwXgEUC:
-    citations: 4
-    title: 'ML Field Planner: Analyzing and Optimizing ML Pipelines For Field Research'
+    citations: 5
+    title: 'Ml field planner: analyzing and optimizing ml pipelines for field research'
     year: '2025'
   ICZdhGsAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 2
     title: Designing and proving properties of the abaco autoscaler using TLA+
     year: '2021'
   ICZdhGsAAAAJ:maZDTaKrznsC:
@@ -282,7 +294,7 @@ papers:
     title: Configuring, Training, and Deploying AI Applications Through Integrated Gateways and Frameworks for Scientific Field Research
     year: '2026'
   ICZdhGsAAAAJ:ufrVoPGSRksC:
-    citations: 182
+    citations: 180
     title: Distributed systems of microservices using docker and serfnode
     year: '2015'
   ICZdhGsAAAAJ:vV6vV6tmYwMC:
@@ -290,7 +302,7 @@ papers:
     title: Development of Authenticated Clients and Applications for ICICLE CI Services-Final Report for the REHS Program
     year: '2023'
   ICZdhGsAAAAJ:zA6iFVUQeVQC:
-    citations: 0
+    citations: 1
     title: A High-Performance Computing Portal Applied to 3D Electron Microscopy
     year: '2026'
   ICZdhGsAAAAJ:zYLM7Y9cAGgC:
