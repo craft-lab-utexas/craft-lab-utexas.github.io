@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-14'
 papers:
   ICZdhGsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -62,7 +62,7 @@ papers:
     title: Tapis pods service exploration and initial performance analysis
     year: '2023'
   ICZdhGsAAAAJ:IjCSPb-OGe4C:
-    citations: 538
+    citations: 542
     title: Lessons learned from the chameleon testbed
     year: '2020'
   ICZdhGsAAAAJ:JV2RwH3_ST0C:
@@ -182,7 +182,7 @@ papers:
     title: 'Sequencelib: A Computational Platform for Formalizing the OEIS in Lean'
     year: '2026'
   ICZdhGsAAAAJ:Zph67rFs4hoC:
-    citations: 62
+    citations: 63
     title: 'Firefly: Untethered multi-user {VR} for commodity mobile devices'
     year: '2020'
   ICZdhGsAAAAJ:_FxGoFyzp5QC:
@@ -262,7 +262,7 @@ papers:
     title: Designing and proving properties of the abaco autoscaler using TLA+
     year: '2021'
   ICZdhGsAAAAJ:maZDTaKrznsC:
-    citations: 14
+    citations: 15
     title: An interactive knowledge and learning environment in smart foodsheds
     year: '2023'
   ICZdhGsAAAAJ:pqnbT2bcN3wC:
